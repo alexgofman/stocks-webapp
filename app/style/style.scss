@@ -1,0 +1,37 @@
+.nav{
+	background:#FF2F2F;
+	position:fixed;
+	width:100%;
+}
+.container{
+	padding-top:10%;
+	width:80%;
+	background:#FFF4F4;
+}
+.input-group{
+	width:600px;
+	margin:0 auto;
+	padding:20px;
+	
+	.btn{
+	  border-left:1px solid;
+	  background:#367;
+	  color:#fff;
+	}
+
+}
+
+.table{
+	width:40%;
+	margin:30px auto;
+	.remove:hover{
+		color:red;
+		cursor:pointer;
+	}
+}
+.chart{
+	width:1000px;
+	fill:pink;
+	height:400px;
+	background:silver;
+}
